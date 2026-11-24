@@ -31,4 +31,4 @@ elif grade >= 60:
 else:
     category = "F"
 
-print("Category:", category)
+print("Student Performance Analyzer")
