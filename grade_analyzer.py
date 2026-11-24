@@ -31,6 +31,6 @@ elif grade >= 60:
 else:
     category = "F"
 
-print("Student Performance Analyzer")
+print("Category", category)
 
-print("Python Grade Analysis Tool")
+print("Hello Grade Category Branch")
