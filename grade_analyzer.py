@@ -32,3 +32,5 @@ else:
     category = "F"
 
 print("Category:", category)
+
+print("Python Grade Analysis Tool")
